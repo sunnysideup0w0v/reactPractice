@@ -1,3 +1,9 @@
+# Notice
+
+- It was made along by the "modern react with redux" lrcture of Udemy.
+
+- Link : `udemy.com/course/react-redux/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
